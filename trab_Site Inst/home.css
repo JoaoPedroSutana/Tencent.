@@ -1,0 +1,35 @@
+h1{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(0, 38, 255);
+    margin-top: -20px;
+    color: white;
+    font-size: 50px;
+}
+.sede2{
+    max-width: 800px;
+    text-align: center;
+}
+div{
+    text-align: center;
+   
+}
+body{
+    margin: 0;
+}
+h2{
+    text-align: center;
+}
+.prod{
+    text-align: center;
+    margin-top: -40px;
+}
+.con{
+    text-align: end;
+    margin-top: -40px;
+}
+h3{
+    border: 0;
+    margin-right: 35px;
+    
+}
